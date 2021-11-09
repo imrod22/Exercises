@@ -122,7 +122,7 @@ var taskCompleted=function(){
 
 
 var taskIncomplete=function(){
-		console.log("Incomplete Task...");
+		console.log("Tarea Incompleta...");
 //Mark task as incomplete.
 	//When the checkbox is unchecked
 		//Append the task list item to the #incomplete-tasks.
